@@ -15,7 +15,6 @@ This project aims to detect **nodes on sugarcane stalks** using a custom-trained
  └── test.mp4         # Output video showing detection results
 ```
 
----
 
 ## 🧠 Project Overview
 
